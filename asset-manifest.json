@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/contextAPI.git/static/css/main.2772070c.chunk.css",
+    "main.js": "/AY-BAMZ/contextAPI.git/static/js/main.93830b1e.chunk.js",
+    "main.js.map": "/AY-BAMZ/contextAPI.git/static/js/main.93830b1e.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/contextAPI.git/static/js/runtime-main.88b57100.js",
+    "runtime-main.js.map": "/AY-BAMZ/contextAPI.git/static/js/runtime-main.88b57100.js.map",
+    "static/js/2.dacb089d.chunk.js": "/AY-BAMZ/contextAPI.git/static/js/2.dacb089d.chunk.js",
+    "static/js/2.dacb089d.chunk.js.map": "/AY-BAMZ/contextAPI.git/static/js/2.dacb089d.chunk.js.map",
+    "static/js/3.591fa366.chunk.js": "/AY-BAMZ/contextAPI.git/static/js/3.591fa366.chunk.js",
+    "static/js/3.591fa366.chunk.js.map": "/AY-BAMZ/contextAPI.git/static/js/3.591fa366.chunk.js.map",
+    "index.html": "/AY-BAMZ/contextAPI.git/index.html",
+    "static/css/main.2772070c.chunk.css.map": "/AY-BAMZ/contextAPI.git/static/css/main.2772070c.chunk.css.map",
+    "static/js/2.dacb089d.chunk.js.LICENSE.txt": "/AY-BAMZ/contextAPI.git/static/js/2.dacb089d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b57100.js",
+    "static/js/2.dacb089d.chunk.js",
+    "static/css/main.2772070c.chunk.css",
+    "static/js/main.93830b1e.chunk.js"
+  ]
+}
