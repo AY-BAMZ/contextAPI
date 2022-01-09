@@ -2,6 +2,7 @@ import './App.css';
 import Nav from './Nav'
 import { CartProvider } from './CartContext'
 import AddCart from './AddCart';
+import Backend from './Api/Backend';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <div className="App">
         <Nav />
         <AddCart />
+        <Backend />
       </div>
     </CartProvider>
   );
