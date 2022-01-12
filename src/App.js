@@ -7,6 +7,7 @@ import PostData from './Api/PostData';
 import { QueryClient, QueryClientProvider } from "react-query";
 import { ReactQueryDevtools } from "react-query/devtools";
 import { useState } from 'react';
+import QueryPost from './Api/QueryPost';
 
 
 
@@ -17,10 +18,11 @@ function App() {
     <CartProvider>
       <div className="App">
          <Nav />
+         <QueryPost />
         <AddCart />
         <PostData />
         <Backend />
-
+        
       </div>
     </CartProvider>
     <ReactQueryDevtools initialIsOpen={false} />
